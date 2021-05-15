@@ -8,8 +8,6 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTWQOK7f2ZXIqH8n-OJCUpD8BkbY2BC4
 
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/KA_RoTjQVdM/maxresdefault.jpg)](https://youtu.be/KA_RoTjQVdM)
 
 
-
-https://youtu.be/KA_RoTjQVdM
