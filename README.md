@@ -7,7 +7,9 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vTWQOK7f2ZXIqH8n-OJCUpD8BkbY2BC4
 
 
 
-https://www.youtube.com/watch?v=<VIDEO ID>
-hhttps://www.youtube.com/watch?v=KA_RoTjQVdM/<VIDEO URL>
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
+
+https://youtu.be/KA_RoTjQVdM
