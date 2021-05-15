@@ -1,0 +1,2 @@
+# app_auxiliar_controle_equipamento
+app auxiliar controle equipamento
